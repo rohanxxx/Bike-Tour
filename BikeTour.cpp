@@ -30,8 +30,6 @@ int main()
 
 int peaks(int check_points)
 {
-    int startingPeak = 0;
-    int highest_peak = 0;
     int tc = 0;
 
     for(int i = 0; i < check_points; i++)
